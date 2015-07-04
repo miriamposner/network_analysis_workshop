@@ -3,4 +3,4 @@ Materials for an introductory workshop on network analysis using Gephi. (You cou
 
 I don't provide a dataset for this workshop because students create it themselves by answering a few questions about their preferences. See the "Creating the Dataset" document for more information on how to do this.  
 
-I've included the workshop handout, called "Creating a Network Graph with Gephi," as both a .docx and PDF, a glossary of some network-analysis terms, and instructions on how to have the students create the dataset.
+I've included the workshop handout, called "Creating a Network Graph with Gephi" (as a .docx, PDF, and .md file) a glossary of some network-analysis terms, and instructions on how to have the students create the dataset.
