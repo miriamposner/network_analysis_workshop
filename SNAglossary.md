@@ -31,7 +31,8 @@ we consider Facebook friends as a graph, then every friend is a node.
 These are the relationships between nodes. For example, if we consider
 Facebook friends as a graph then every friendship is an edge.
 
-![](imgs/media/image1.png)*Image via
+![](imgs/media/image1.png)  
+*Image via
 http://semanticommunity.info/AOL\_Government/Social\_Media\_-\_Six\_Degrees\_of\_Separation\_and\_Now\_Even\_Less*
 
 
@@ -48,7 +49,8 @@ nodes), then it is called a directed graph. If Bill is following Steve
 on Twitter and Steve is not following Bill, the relationship is
 directed.
 
-![](imgs/media/image2.gif)*Image via
+![](imgs/media/image2.gif)  
+*Image via
 http://www.codediesel.com/wp-content/uploads/2012/02/d-graph1.gif*
 
 **Weighted network**  
@@ -59,7 +61,8 @@ to, e.g., the strength of a relationship) assigned to them.
 A network in which the edges between nodes do not have weights assigned
 to them.
 
-![](imgs/media/image3.jpeg)*Image via
+![](imgs/media/image3.jpeg)  
+*Image via
 http://blogs.sas.com/content/sascom/files/2011/10/weighted-network2.jpg*
 
 **Single-mode graph**  
@@ -76,7 +79,8 @@ When you perform ego network analysis, you select a focal node (an
 “ego”) and determine its connections to other nodes (which are called
 “alters”). Each ego is treated as its own case.
 
-![](imgs/media/image4.png)*Image via
+![](imgs/media/image4.png)  
+*Image via
 http://www.analytictech.com/e-net/pdwhandout.pdf*
 
 ##Measures of Graphs or Nodes
@@ -99,7 +103,8 @@ The number of “steps” between any two actors in a network.
 A measure of a network’s actors’ tendency to “group together” into
 pockets of dense connectivity.
 
-![](imgs/media/image5.png)*In the first image, the blue node has a
+![](imgs/media/image5.png) 
+*In the first image, the blue node has a
 clustering coefficient of one, because all possible connections among
 its neighboring nodes have been realized. In the second image, only one
 of the possible connections has been realized — so the blue node has a
