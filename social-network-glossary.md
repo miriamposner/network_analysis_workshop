@@ -1,6 +1,6 @@
 **Social Network Analysis Glossary**
 
-*Adapted from *
+*Adapted from*
 
 Brian V. Carolan, “Key Terms,” *Social Network Analysis and Education:
 Theory, Methods & Applications* (SAGE, 2014,
@@ -14,14 +14,14 @@ Katharina Zweig, “An Introductory Course on Network Analysis”
 
 **Basic Terms**
 
-**Social network **
+**Social network**
 
 A finite set (or sets) of actors and the relations defined on them. It
 consists of three elements: (1) a set of actors; (2) each actor has a
 set of individual attributes; and (3) a set of ties that defines at
 least one relation among actors.
 
-**Graph **
+**Graph**
 
 A common way to visually represent social networks, consisting of two
 dimensions: actors and relations (also called nodes and edges).
@@ -31,21 +31,18 @@ dimensions: actors and relations (also called nodes and edges).
 Nodes are the entities in graph (also called vectors). For example, if
 we consider Facebook friends as a graph, then every friend is a node. \
 \
-**Edge **
+**Edge**
 
 These are the relationships between nodes. For example, if we consider
 Facebook friends as a graph then every friendship is an edge.
 
-![](-imgs/media/image1.png){width="3.6069444444444443in"
-height="2.0597222222222222in"}*Image via
+![](-imgs/media/image1.png)*Image via
 http://semanticommunity.info/AOL\_Government/Social\_Media\_-\_Six\_Degrees\_of\_Separation\_and\_Now\_Even\_Less*
 
-**\
-**
 
 **Types of Graphs**
 
-**Undirected graph **
+**Undirected graph**
 
 When the relationship is always valid in both directions, then it is
 called undirected graph. If Dave is friends with Raj on Facebook, then
@@ -58,30 +55,28 @@ nodes), then it is called a directed graph. If Bill is following Steve
 on Twitter and Steve is not following Bill, the relationship is
 directed.
 
-![](-imgs/media/image2.gif){width="3.5in"
-height="1.9583333333333333in"}*Image via
+![](-imgs/media/image2.gif)*Image via
 http://www.codediesel.com/wp-content/uploads/2012/02/d-graph1.gif*
 
-**Weighted network **
+**Weighted network**
 
 A network in which the edges between nodes have weights (corresponding
 to, e.g., the strength of a relationship) assigned to them.
 
-**Unweighted network **
+**Unweighted network**
 
 A network in which the edges between nodes do not have weights assigned
 to them.
 
-![](-imgs/media/image3.jpeg){width="2.2840277777777778in"
-height="2.125in"}*Image via
+![](-imgs/media/image3.jpeg)*Image via
 http://blogs.sas.com/content/sascom/files/2011/10/weighted-network2.jpg*
 
-**Single-mode graph **
+**Single-mode graph**
 
 A type of graph in which all nodes belong to the same category. For
 example, in a graph of Facebook friends, each node is a person.
 
-**Multimode graph **
+**Multimode graph**
 
 A type of graph in which all nodes are not of same type. For example, a
 graph that includes both “buyers” and “sellers” is a multimode (or
@@ -93,27 +88,26 @@ When you perform ego network analysis, you select a focal node (an
 “ego”) and determine its connections to other nodes (which are called
 “alters”). Each ego is treated as its own case.
 
-![](-imgs/media/image4.png){width="4.705555555555556in"
-height="2.25in"}*Image via
+![](-imgs/media/image4.png)*Image via
 http://www.analytictech.com/e-net/pdwhandout.pdf*
 
 **Measures of Graphs or Nodes**
 
-**Size **
+**Size**
 
 A measure of the number of actors (nodes) in a complete or egocentric
 network.
 
-**Density **
+**Density**
 
 The number of ties in the network reported as a fraction of the total
 possible number of ties.
 
-**Reciprocity **
+**Reciprocity**
 
 The proportion of mutual ties in a network.
 
-**Distance **
+**Distance**
 
 The number of “steps” between any two actors in a network.
 
@@ -122,8 +116,7 @@ The number of “steps” between any two actors in a network.
 A measure of a network’s actors’ tendency to “group together” into
 pockets of dense connectivity.
 
-![](-imgs/media/image5.png){width="2.375in"
-height="1.0104166666666667in"}*In the first image, the blue node has a
+![](-imgs/media/image5.png)*In the first image, the blue node has a
 clustering coefficient of one, because all possible connections among
 its neighboring nodes have been realized. In the second image, only one
 of the possible connections has been realized — so the blue node has a
