@@ -29,8 +29,8 @@ dimensions: actors and relations (also called nodes and edges).
 **Node**
 
 Nodes are the entities in graph (also called vectors). For example, if
-we consider Facebook friends as a graph, then every friend is a node. \
-\
+we consider Facebook friends as a graph, then every friend is a node.
+
 **Edge**
 
 These are the relationships between nodes. For example, if we consider
