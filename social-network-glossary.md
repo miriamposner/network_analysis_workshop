@@ -130,12 +130,12 @@ There are multiple ways to determine a node’s importance, or centrality.
 The measure you use depends on how you define centrality. Several of
 these measures are:
 
-> **Degree centrality **
+> **Degree centrality**
 >
 > *An important node is involved in large number of interactions.* The
 > number of edges connected with a particular node.
 >
-> **Eigenvector centrality **
+> **Eigenvector centrality**
 >
 > *An important node is connected to important neighbors.* This is a
 > measure of influence of a given node in the whole network. The notion
