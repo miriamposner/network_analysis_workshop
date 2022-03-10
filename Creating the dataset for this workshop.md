@@ -9,4 +9,4 @@ To do this, have them fill out a form with four (or so) questions. Each question
 
 Once you have the spreadsheet containing their answers, turn it into an edge list. The source should be students; the target should be preferences. I use OpenRefine's [transpose function](http://googlerefine.blogspot.com/2011/09/json-code-to-transpose-important-number.html) to do this. You should also create a node list that contains a node-type column that classifies nodes as either "student" or "preference." 
 
-If you want to show students the difference between a two-mode and a one-mode network, you can use [these instructions](http://electricarchaeology.ca/2012/04/04/converting-2-mode-with-multimodal-plugin-for-gephi/) from Shawn Graham to project your two-mode edge list into a one-mode edge list. 
+If you want to show students the difference between a two-mode and a one-mode network, you can use [these instructions](https://github.com/miriamposner/cytoscape_tutorials/blob/master/get-a-unimodal-network.md) to project your two-mode edge list into a one-mode edge list. 
